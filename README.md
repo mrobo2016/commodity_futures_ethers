@@ -4,7 +4,7 @@
 https://sooho.notion.site/Peach-Stock-NFT-2576eb90c6314d54b791fa681caf4102
 
 
-Solidity로 구현된 NFT 와 Smart Contract는 contracts 폴더에 있습니다.
+Solidity로 구현된 NFT 와 Smart Contract는 /contracts 폴더에 있습니다.
 
 
 Start local node
